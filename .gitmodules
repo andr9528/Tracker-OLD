@@ -1,0 +1,3 @@
+[submodule "Wolf.Utility.Core"]
+	path = Wolf.Utility.Core
+	url = https://github.com/andr9528/Wolf.Utility.Core

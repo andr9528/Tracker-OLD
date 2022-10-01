@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Config\" />
+    <Folder Include="Handlers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tracker.Core.Persistance\Tracker.Core.Persistence.csproj" />
+    <ProjectReference Include="..\Tracker.Module.Settings.Models\Tracker.Module.Settings.Models.csproj" />
+  </ItemGroup>
+
+</Project>
