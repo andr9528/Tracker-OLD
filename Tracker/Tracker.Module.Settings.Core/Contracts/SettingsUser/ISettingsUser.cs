@@ -2,9 +2,9 @@
 
 namespace Tracker.Module.Settings.Core.Contracts.SettingsUser
 {
-    public interface ISettingsUser : IUser, ISearchableSettingsUser
+    public interface ISettingsUser : IUserBase, ISearchableSettingsUser
     {
-        new ISettingsUser UnpackDto<TDto>(TDto dto) where TDto : class, ISettingsUserDto;
+        static ISettingsUser UnpackDto<TDto>(TDto dto) where TDto : class, ISettingsUserDto => throw new NotImplementedException();
 
     }
 }

@@ -63,17 +63,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracker.Module.Dining.Model
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dining", "Dining", "{200526B4-98A2-4AB6-A2E0-53E71DDB0095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Maui", "Tracker.Maui\Tracker.Maui.csproj", "{6F011558-8B5B-4F20-A550-59C9C2787240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracker.Maui", "Tracker.Maui\Tracker.Maui.csproj", "{6F011558-8B5B-4F20-A550-59C9C2787240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Module.Budget.Api", "Tracker.Module.Budget.Api\Tracker.Module.Budget.Api.csproj", "{DED1C0C4-24C9-4628-B8A1-1EC08B0314CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracker.Module.Budget.Api", "Tracker.Module.Budget.Api\Tracker.Module.Budget.Api.csproj", "{DED1C0C4-24C9-4628-B8A1-1EC08B0314CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Module.Dining.Api", "Tracker.Module.Dining.Api\Tracker.Module.Dining.Api.csproj", "{9BF0D17C-36F4-422A-96F2-72D2482855DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracker.Module.Dining.Api", "Tracker.Module.Dining.Api\Tracker.Module.Dining.Api.csproj", "{9BF0D17C-36F4-422A-96F2-72D2482855DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Module.Settings.Api", "Tracker.Module.Settings.Api\Tracker.Module.Settings.Api.csproj", "{840962F0-32B8-4BC3-AEB1-28D43FAFA9AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracker.Module.Settings.Api", "Tracker.Module.Settings.Api\Tracker.Module.Settings.Api.csproj", "{840962F0-32B8-4BC3-AEB1-28D43FAFA9AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Module.Time.Api", "Tracker.Module.Time.Api\Tracker.Module.Time.Api.csproj", "{02D85362-E49F-411B-9440-11A854B6C01C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracker.Module.Time.Api", "Tracker.Module.Time.Api\Tracker.Module.Time.Api.csproj", "{02D85362-E49F-411B-9440-11A854B6C01C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wolf.Utility.Core.Web", "..\Wolf.Utility.Core\Wolf.Utility.Core.Web\Wolf.Utility.Core.Web.csproj", "{EBB827E7-7CDF-49DC-ABBC-D730EF3222D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommandChain", "CommandChain", "{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Module.CommandChain.Api", "Tracker.Module.CommandChain.Api\Tracker.Module.CommandChain.Api.csproj", "{764BAFFF-0878-4588-8AE7-7A8BC9436C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Module.CommandChain.Core", "Tracker.Module.CommandChain.Core\Tracker.Module.CommandChain.Core.csproj", "{F7CD0AAF-5136-450D-84FD-8145FF4DEBE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Module.CommandChain.Models", "Tracker.Module.CommandChain.Models\Tracker.Module.CommandChain.Models.csproj", "{DB669B16-EBBB-46BC-BC44-588D4506DBA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker.Module.CommandChain.Persistence", "Tracker.Module.CommandChain.Persistence\Tracker.Module.CommandChain.Persistence.csproj", "{E02FB1F8-B44D-4F5C-99D4-136B6F1B4986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +205,22 @@ Global
 		{EBB827E7-7CDF-49DC-ABBC-D730EF3222D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBB827E7-7CDF-49DC-ABBC-D730EF3222D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBB827E7-7CDF-49DC-ABBC-D730EF3222D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764BAFFF-0878-4588-8AE7-7A8BC9436C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764BAFFF-0878-4588-8AE7-7A8BC9436C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764BAFFF-0878-4588-8AE7-7A8BC9436C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764BAFFF-0878-4588-8AE7-7A8BC9436C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7CD0AAF-5136-450D-84FD-8145FF4DEBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CD0AAF-5136-450D-84FD-8145FF4DEBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CD0AAF-5136-450D-84FD-8145FF4DEBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CD0AAF-5136-450D-84FD-8145FF4DEBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB669B16-EBBB-46BC-BC44-588D4506DBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB669B16-EBBB-46BC-BC44-588D4506DBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB669B16-EBBB-46BC-BC44-588D4506DBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB669B16-EBBB-46BC-BC44-588D4506DBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02FB1F8-B44D-4F5C-99D4-136B6F1B4986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02FB1F8-B44D-4F5C-99D4-136B6F1B4986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02FB1F8-B44D-4F5C-99D4-136B6F1B4986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02FB1F8-B44D-4F5C-99D4-136B6F1B4986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -232,6 +258,11 @@ Global
 		{840962F0-32B8-4BC3-AEB1-28D43FAFA9AB} = {BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}
 		{02D85362-E49F-411B-9440-11A854B6C01C} = {E8A80BB7-0404-4CBE-AFB2-76B8358B345F}
 		{EBB827E7-7CDF-49DC-ABBC-D730EF3222D4} = {BA299C3A-6716-44B8-A970-0E7EA4311193}
+		{15CBE7D5-D602-4158-9AB7-DDF6C41077B3} = {E16CD02D-F19C-4552-B7A8-7A5920506CCC}
+		{764BAFFF-0878-4588-8AE7-7A8BC9436C7D} = {15CBE7D5-D602-4158-9AB7-DDF6C41077B3}
+		{F7CD0AAF-5136-450D-84FD-8145FF4DEBE7} = {15CBE7D5-D602-4158-9AB7-DDF6C41077B3}
+		{DB669B16-EBBB-46BC-BC44-588D4506DBA9} = {15CBE7D5-D602-4158-9AB7-DDF6C41077B3}
+		{E02FB1F8-B44D-4F5C-99D4-136B6F1B4986} = {15CBE7D5-D602-4158-9AB7-DDF6C41077B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B2F2D101-D66C-40D4-820C-906B56FE08C6}

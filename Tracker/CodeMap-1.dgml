@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@12)" Category="CodeSchema_Assembly" Bounds="-546.65515,-130.5,258.526666666667,25" CodeSchemaProperty_StrongName="Tracker.Module.Budget.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(26ec1d1c-7e35-4a35-9cc3-73d45feb7bd9.OutputPath)" Group="Collapsed" Label="Tracker.Module.Budget.Persistence.dll" UseManualLocation="True" />
+    <Node Id="(@13)" Category="CodeSchema_Assembly" Bounds="-1188.09515,-240.5,212.323333333333,25" CodeSchemaProperty_StrongName="Tracker.Module.Time.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d542fece-18c4-40d3-914d-db713d6e7b52.OutputPath)" Group="Collapsed" Label="Tracker.Module.Time.Core.dll" UseManualLocation="True" />
+    <Node Id="(@14)" Category="CodeSchema_Assembly" Bounds="-871.908483333333,-240.5,221.39,25" CodeSchemaProperty_StrongName="Tracker.Module.Dining.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(bafdf4c2-522a-49ae-87ee-ee57dfca490c.OutputPath)" Group="Collapsed" Label="Tracker.Module.Dining.Core.dll" UseManualLocation="True" />
+    <Node Id="(@21)" Category="CodeSchema_Assembly" Bounds="-546.65515,-240.5,224.663333333333,25" CodeSchemaProperty_StrongName="Tracker.Module.Budget.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(71c47b10-a81e-4987-ab80-122a303cc440.OutputPath)" Group="Collapsed" Label="Tracker.Module.Budget.Core.dll" UseManualLocation="True" />
+    <Node Id="(@24)" Category="CodeSchema_Assembly" Bounds="-1188.09515,-295.5,205.113333333333,25" CodeSchemaProperty_StrongName="Tracker.Module.Time.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(02d85362-e49f-411b-9440-11a854b6c01c.OutputPath)" Group="Collapsed" Label="Tracker.Module.Time.Api.dll" UseManualLocation="True" />
+    <Node Id="(@25)" Category="CodeSchema_Assembly" Bounds="-871.908483333333,-295.5,214.18,25" CodeSchemaProperty_StrongName="Tracker.Module.Dining.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(9bf0d17c-36f4-422a-96f2-72d2482855db.OutputPath)" Group="Collapsed" Label="Tracker.Module.Dining.Api.dll" UseManualLocation="True" />
+    <Node Id="(@3)" Category="CodeSchema_Assembly" Bounds="-1188.09515,-130.5,246.186666666666,25" CodeSchemaProperty_StrongName="Tracker.Module.Time.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(79291ead-392a-4573-9903-4f2dac6556c6.OutputPath)" Group="Collapsed" Label="Tracker.Module.Time.Persistence.dll" UseManualLocation="True" />
+    <Node Id="(@32)" Category="CodeSchema_Assembly" Bounds="-546.65515,-295.5,217.453333333333,25" CodeSchemaProperty_StrongName="Tracker.Module.Budget.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ded1c0c4-24c9-4628-b8a1-1ec08b0314cc.OutputPath)" Group="Collapsed" Label="Tracker.Module.Budget.Api.dll" UseManualLocation="True" />
+    <Node Id="(@33)" Category="CodeSchema_Assembly" Bounds="476.119019388737,0,142.14,25" CodeSchemaProperty_StrongName="Tracker.Maui, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(6f011558-8b5b-4f20-a550-59c9c2787240.OutputPath)" Group="Collapsed" Label="Tracker.Maui.dll" UseManualLocation="True" />
+    <Node Id="(@38)" Category="CodeSchema_Assembly" Bounds="-1188.09515,-185.5,226.563333333334,25" CodeSchemaProperty_StrongName="Tracker.Module.Time.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(8bb85715-8ac6-4a19-854c-1ffec02f57fe.OutputPath)" Group="Collapsed" Label="Tracker.Module.Time.Models.dll" UseManualLocation="True" />
+    <Node Id="(@41)" Category="CodeSchema_Assembly" Bounds="-871.908483333334,-185.5,235.63,25" CodeSchemaProperty_StrongName="Tracker.Module.Dining.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(e67e0529-6edf-40f8-bd20-3250a9ed1e2f.OutputPath)" Group="Collapsed" Label="Tracker.Module.Dining.Models.dll" UseManualLocation="True" />
+    <Node Id="(@42)" Category="CodeSchema_Assembly" Bounds="-852.960980611263,94.5002869565002,285.876666666667,25" CodeSchemaProperty_StrongName="Tracker.Module.CommandChain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(db669b16-ebbb-46bc-bc44-588d4506dba9.OutputPath)" Group="Collapsed" Label="Tracker.Module.CommandChain.Models.dll" UseManualLocation="True" />
+    <Node Id="(@45)" Category="CodeSchema_Assembly" Bounds="-546.65515,-185.5,238.903333333333,25" CodeSchemaProperty_StrongName="Tracker.Module.Budget.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(a552b06b-b407-41c2-a914-02a255f79698.OutputPath)" Group="Collapsed" Label="Tracker.Module.Budget.Models.dll" UseManualLocation="True" />
+    <Node Id="(@8)" Category="CodeSchema_Assembly" Bounds="-871.908483333333,-130.5,255.253333333333,25" CodeSchemaProperty_StrongName="Tracker.Module.Dining.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(7f0fca22-bed4-4c9d-9d6e-575b9850deca.OutputPath)" Group="Collapsed" Label="Tracker.Module.Dining.Persistence.dll" UseManualLocation="True" />
+    <Node Id="(@9)" Category="CodeSchema_Assembly" Bounds="-852.960980611263,149.5003869565,305.5,25" CodeSchemaProperty_StrongName="Tracker.Module.CommandChain.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(e02fb1f8-b44d-4f5c-99d4-136b6f1b4986.OutputPath)" Group="Collapsed" Label="Tracker.Module.CommandChain.Persistence.dll" UseManualLocation="True" />
+    <Node Id="@11" Bounds="-1194.98098061126,149.5003869565,272.02,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(2464bd0a-c450-4eaa-8f01-b9ceb2010af4.OutputPath)" Group="Collapsed" Label="Tracker.Module.Settings.Persistence.dll" UseManualLocation="True" />
+    <Node Id="@16" Category="CodeSchema_Assembly" Bounds="-852.960980611263,39.5001869565002,271.636666666667,25" CodeSchemaProperty_StrongName="Tracker.Module.CommandChain.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(f7cd0aaf-5136-450d-84fd-8145ff4debe7.OutputPath)" Group="Collapsed" Label="Tracker.Module.CommandChain.Core.dll" UseManualLocation="True" />
+    <Node Id="@18" Category="CodeSchema_Assembly" Bounds="-1208.09515,284.5,140.47,25" CodeSchemaProperty_StrongName="Tracker.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(f3996b31-5b36-4948-8958-7677475f40b4.OutputPath)" Group="Collapsed" Label="Tracker.Core.dll" UseManualLocation="True" />
+    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="-176.014313944596,-90.5,187.596666666667,25" CodeSchemaProperty_StrongName="Wolf.Utility.Core.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(ebb827e7-7cdf-49dc-abbc-d730ef3222d4.OutputPath)" Group="Collapsed" Label="Wolf.Utility.Core.Web.dll" UseManualLocation="True" />
+    <Node Id="@20" Category="CodeSchema_Assembly" Bounds="-1194.98098061126,39.5001869565003,229.156666666667,25" CodeSchemaProperty_StrongName="Tracker.Module.Settings.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(1b521a73-c691-4391-9585-a7a182cc6519.OutputPath)" Group="Collapsed" Label="Tracker.Module.Settings.Core.dll" UseManualLocation="True" />
+    <Node Id="@23" Category="CodeSchema_Assembly" Bounds="55.7556860554035,-35.4864753281009,207.103333333333,25" CodeSchemaProperty_StrongName="Wolf.Utility.Core.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(7aaa468a-b8bd-4c8b-8dad-3f475ee01ad1.OutputPath)" Group="Collapsed" Label="Wolf.Utility.Core.Logging.dll" UseManualLocation="True" />
+    <Node Id="@27" Category="CodeSchema_Assembly" Bounds="-852.960980611263,-15.4999130434998,264.426666666667,25" CodeSchemaProperty_StrongName="Tracker.Module.CommandChain.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(764bafff-0878-4588-8ae7-7a8bc9436c7d.OutputPath)" Group="Collapsed" Label="Tracker.Module.CommandChain.Api.dll" UseManualLocation="True" />
+    <Node Id="@29" Category="CodeSchema_Assembly" Bounds="312.859019388737,0,133.26,25" CodeSchemaProperty_StrongName="Tracker.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(2457bb97-3a51-468a-b9ea-31d37e287084.OutputPath)" Group="Collapsed" Label="Tracker.Api.dll" UseManualLocation="True" />
+    <Node Id="@31" Bounds="-1194.98098061126,-15.4999130434998,230.946666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(840962f0-32b8-4bc3-aeb1-28d43fafa9ab.OutputPath)" Group="Collapsed" Label="Tracker.Module.Settings.Api.dll" UseManualLocation="True" />
+    <Node Id="@35" Category="CodeSchema_Assembly" Bounds="-176.014313944596,-35.4864753281009,201.77,25" CodeSchemaProperty_StrongName="Wolf.Utility.Core.Startup, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0d77a50a-a6cd-4df9-97b1-6bda9571f8b3.OutputPath)" Group="Collapsed" Label="Wolf.Utility.Core.Startup.dll" UseManualLocation="True" />
+    <Node Id="@37" Category="CodeSchema_Assembly" Bounds="41.5823527220702,-90.4865753281009,192.976666666667,25" CodeSchemaProperty_StrongName="Wolf.Utility.Core.Bases, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(eb6a1e8c-00a4-4602-bc67-40f08484c570.OutputPath)" Group="Collapsed" Label="Wolf.Utility.Core.Bases.dll" UseManualLocation="True" />
+    <Node Id="@40" Bounds="-1208.09515,339.50081195645,191.22,25" CodeSchemaProperty_StrongName="Tracker.Core.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" ErrorLevel="Error" FilePath="$(c80382da-bc86-49fd-a9ce-b42c46e0a510.OutputPath)" Group="Collapsed" Label="Tracker.Core.Models.dll" UseManualLocation="True" />
+    <Node Id="@44" Bounds="-1194.98098061126,94.5002869565003,252.396666666667,25" CodeSchemaProperty_StrongName="Tracker.Module.Settings.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" ErrorLevel="Error" FilePath="$(827f2bd7-047d-418f-be32-d11ac7b6c3ce.OutputPath)" Group="Collapsed" Label="Tracker.Module.Settings.Models.dll" UseManualLocation="True" />
+    <Node Id="@47" Category="CodeSchema_Assembly" Bounds="-176.014313944596,19.5136246718991,219.15,25" CodeSchemaProperty_StrongName="Wolf.Utility.Core.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d48021d3-7fb3-4b13-9e13-de83a7a76a60.OutputPath)" Group="Collapsed" Label="Wolf.Utility.Core.Extensions.dll" UseManualLocation="True" />
+    <Node Id="@49" Category="CodeSchema_Assembly" Bounds="-176.014313944596,74.5137246718991,219.863333333333,25" CodeSchemaProperty_StrongName="Wolf.Utility.Core.Exceptions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(fa8b1e98-9a17-4f3f-bcf4-e86ea08ce424.OutputPath)" Group="Collapsed" Label="Wolf.Utility.Core.Exceptions.dll" UseManualLocation="True" />
+    <Node Id="@5" Bounds="-1208.09515,394.5008869565,210.843333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(5940580e-b2e7-4666-8104-8b38fd42355c.OutputPath)" Group="Collapsed" Label="Tracker.Core.Persistence.dll" UseManualLocation="True" />
+    <Node Id="@7" Category="CodeSchema_Assembly" Bounds="-176.014313944596,129.513824671899,222.3,25" CodeSchemaProperty_StrongName="Wolf.Utility.Core.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(574ffac6-756d-4a5d-8400-463db9067576.OutputPath)" Group="Collapsed" Label="Wolf.Utility.Core.Persistence.dll" UseManualLocation="True" />
+    <Node Id="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" Category="CodeMap_SolutionFolder" Bounds="-566.65515,-335.5,298.526666666667,250" Group="Expanded" Label="Budget" UseManualLocation="True" />
+    <Node Id="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" Category="CodeMap_SolutionFolder" Bounds="-872.960980611263,-55.5000130434998,345.5,250.0005" Group="Expanded" Label="CommandChain" UseManualLocation="True" />
+    <Node Id="Core{54DB0AF4-C04E-4B54-9608-E635BB286370}" Category="CodeMap_SolutionFolder" Bounds="-1228.09515,244.50071195645,250.843333333333,195.0003" Group="Expanded" Label="Core" UseManualLocation="True" />
+    <Node Id="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" Category="CodeMap_SolutionFolder" Bounds="-891.908483333333,-335.5,295.253333333333,250" Group="Expanded" Label="Dining" UseManualLocation="True" />
+    <Node Id="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" Category="CodeMap_SolutionFolder" Bounds="-1234.98098061126,-375.50068804355,986.85249727793,590.0013" Group="Expanded" Label="Module" UseManualLocation="True" />
+    <Node Id="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" Category="CodeMap_SolutionFolder" Bounds="-1214.98098061126,-55.5000130434998,312.02,250.0005" Group="Expanded" Label="Settings" UseManualLocation="True" />
+    <Node Id="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" Category="CodeMap_SolutionFolder" Bounds="-1208.09515,-335.5,286.186666666667,250" Group="Expanded" Label="Time" UseManualLocation="True" />
+    <Node Id="Tracker{695FD2D9-CA45-4797-A30B-33A1F01A09DD}" Category="CodeMap_SolutionFolder" Bounds="-1254.98098061126,-415.50078804355,1026.85249727793,875.0019" Group="Expanded" Label="Tracker" UseManualLocation="True" />
+    <Node Id="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" Category="CodeMap_SolutionFolder" Bounds="-196.014313944596,-130.5001,478.873333333333,305.014024671899" Group="Expanded" Label="Utility.Core" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="@11" Target="@18" Category="CodeMap_ExternalReference" Bounds="-1126.01475199671,174.5003869565,59.7391977268446,102.229097341777" />
+    <Link Source="@11" Target="@20" Category="CodeMap_ExternalReference" Bounds="-1205.115234375,66.7623062133789,89.7020263671875,82.7380752563477" />
+    <Link Source="@11" Target="@35" Category="CodeMap_ExternalReference" Bounds="-992.490471231019,-8.82339251940622,842.035640525095,158.323779475907" />
+    <Link Source="@11" Target="@37" Category="CodeMap_ExternalReference" Bounds="-996.621673420197,-63.7174288000161,1063.51864745689,213.217815756516" />
+    <Link Source="@11" Target="@40" Category="CodeMap_ExternalReference" Bounds="-1106.52454441783,174.5003869565,44.0329026429952,156.337476816211" />
+    <Link Source="@11" Target="@44" Category="CodeMap_ProjectReference" Bounds="-1064.97213813129,128.360407641,3.77123733200324,21.1399793155001" />
+    <Link Source="@11" Target="@47" Category="CodeMap_ExternalReference" Bounds="-963.525524356499,45.68232826636,792.716958333146,103.81805869014" />
+    <Link Source="@11" Target="@49" Category="CodeMap_ExternalReference" Bounds="-923.760140735019,95.9891256018962,738.835414094219,55.7996300496229" />
+    <Link Source="@11" Target="@7" Category="CodeMap_ExternalReference" Bounds="-922.960980611263,144.429409634065,737.948485073722,14.8364897392832" />
+    <Link Source="@16" Target="@18" Category="Implements" Bounds="-1108.61757796391,64.5001869565002,370.009735595844,215.470750464932" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="8">
+      <Category Ref="CodeMap_ProjectReference" />
+    </Link>
+    <Link Source="@16" Target="@35" Category="CodeMap_ExternalReference" Bounds="-610.121392801923,-10.3994718767239,427.225926900511,49.8996588332241" />
+    <Link Source="@16" Target="@37" Category="CodeMap_ExternalReference" Bounds="-634.902221570111,-64.1341673977456,681.834673603851,103.634354354246" />
+    <Link Source="@16" Target="@47" Category="InheritsFrom" Bounds="-581.324313944596,35.6555636473889,396.314242437872,12.1729194934082" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2">
+      <Category Ref="CodeMap_ExternalReference" />
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@16" Target="@49" Category="CodeMap_ExternalReference" Bounds="-581.324313944596,59.3043990669191,396.322986785457,21.3139646811233" />
+    <Link Source="@16" Target="@7" Category="Implements" Bounds="-626.562159991703,64.5001869565002,462.201850413907,63.7833081193014" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="4">
+      <Category Ref="CodeMap_ExternalReference" />
+    </Link>
+    <Link Source="@18" Target="@35" Category="CodeMap_ExternalReference" Bounds="-1096.34547211534,-7.8916620184086,971.083653188276,292.391662018409" />
+    <Link Source="@18" Target="@37" Category="CodeMap_ExternalReference" Bounds="-1095.32759950339,-62.9488673356505,1182.23091959542,347.448867335651" />
+    <Link Source="@18" Target="@47" Category="InheritsFrom" Bounds="-1087.31883279413,46.6744209229729,961.601442544231,237.825579077027" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="4">
+      <Category Ref="CodeMap_ExternalReference" />
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@18" Target="@49" Category="CodeMap_ExternalReference" Bounds="-1074.05970036065,101.244136108147,935.344521227866,183.255863891853" />
+    <Link Source="@18" Target="@7" Category="Implements" Bounds="-1068.32096941568,155.800454360367,908.009456921621,131.155134215042" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="12">
+      <Category Ref="CodeMap_ProjectReference" />
+    </Link>
+    <Link Source="@2" Target="@23" Category="CodeMap_ProjectReference" Bounds="-27.3378086585978,-65.5,122.991751552414,28.0147249753736" />
+    <Link Source="@2" Target="@35" Category="Implements" Bounds="-80.6057705063543,-65.5,2.71639610564345,21.0872799872721" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="CodeMap_ExternalReference" />
+    </Link>
+    <Link Source="@2" Target="@37" Category="CodeMap_ExternalReference" Bounds="11.5823527220704,-77.9942837582105,21.0000000167123,0.00127977836503135" />
+    <Link Source="@2" Target="@47" Category="CodeMap_ExternalReference" Bounds="-36.6213836669922,-65.5,72.5112533569336,82.2933082580566" />
+    <Link Source="@2" Target="@49" Category="CodeMap_ExternalReference" Bounds="-186.148513793945,-65.5,65.0066680908203,137.666976928711" />
+    <Link Source="@2" Target="@7" Category="CodeMap_ProjectReference" Bounds="-186.148529052734,-65.5,65.747444152832,192.693290710449" />
+    <Link Source="@20" Target="@18" Category="Implements" Bounds="-1132.87371129746,64.5001869565003,49.5395565416113,211.237549770687" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="8">
+      <Category Ref="CodeMap_ProjectReference" />
+    </Link>
+    <Link Source="@20" Target="@35" Category="CodeMap_ExternalReference" Bounds="-965.933381042986,-14.7916545512847,780.944066034294,58.2532003994372" />
+    <Link Source="@20" Target="@37" Category="CodeMap_ExternalReference" Bounds="-968.517264058386,-66.8235233592373,1001.94743977556,106.887775146854" />
+    <Link Source="@20" Target="@47" Category="CodeMap_ExternalReference" Bounds="-965.824313944596,34.3508607537059,780.811747904432,15.3908352689022" />
+    <Link Source="@20" Target="@49" Category="CodeMap_ExternalReference" Bounds="-965.824313944596,55.9553419327743,780.815357307976,26.9531390112247" />
+    <Link Source="@20" Target="@7" Category="Implements" Bounds="-966.548397245191,62.0918150894991,782.130756106119,69.3252359023445" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="4">
+      <Category Ref="CodeMap_ExternalReference" />
+    </Link>
+    <Link Source="@23" Target="@35" Category="Implements" Bounds="34.7556860554037,-22.9864753281009,20.9999999999998,0" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="CodeMap_ProjectReference" />
+    </Link>
+    <Link Source="@27" Target="@23" Category="CodeSchema_Calls" Bounds="-588.534313944596,-20.4304140298399,635.292320070219,14.4278590815485" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="CodeMap_ProjectReference" />
+    </Link>
+    <Link Source="@27" Target="@35" Category="References" Bounds="-588.534313944596,-19.5848723197253,403.524309481194,12.4919992639561" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="9">
+      <Category Ref="CodeMap_ProjectReference" />
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="Implements" />
+      <Category Ref="InheritsFrom" />
+    </Link>
+    <Link Source="@29" Target="@23" Category="CodeSchema_Calls" Bounds="245.750995877441,-9.05443340769773,68.1607391693523,10.985403214974" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="CodeMap_ProjectReference" />
+    </Link>
+    <Link Source="@29" Target="@35" Category="References" Bounds="34.7144027914806,-14.4123240937651,278.144616597256,21.7113375128352" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="8">
+      <Category Ref="CodeMap_ProjectReference" />
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="InheritsFrom" />
+    </Link>
+    <Link Source="@31" Target="@18" Category="CodeMap_ExternalReference" Bounds="-1133.71042366985,9.50008695650023,51.7714214070907,266.165480412054" />
+    <Link Source="@31" Target="@20" Category="CodeMap_ExternalReference" Bounds="-1080.05280366443,9.50008695650022,0.341747665422872,21.0012913665042" />
+    <Link Source="@31" Target="@23" Category="CodeMap_ProjectReference" Bounds="-964.034313944596,-21.170629144478,1010.79117109205,16.3077139829242" />
+    <Link Source="@31" Target="@35" Category="CodeMap_ProjectReference" Bounds="-964.034313944596,-20.7998612610747,779.021781414929,15.5020940203247" />
+    <Link Source="@31" Target="@37" Category="CodeMap_ExternalReference" Bounds="-964.034313944598,-71.4909347605607,996.633686467757,61.3794783433502" />
+    <Link Source="@31" Target="@40" Category="CodeMap_ExternalReference" Bounds="-1110.49150912649,9.50008695650023,29.8226845466704,321.039307455725" />
+    <Link Source="@31" Target="@44" Category="CodeMap_ExternalReference" Bounds="-1031.68823242188,9.50008678436279,75.9981079101563,82.5207185745239" />
+    <Link Source="@31" Target="@47" Category="CodeMap_ExternalReference" Bounds="-964.034313944596,0.991061482854481,779.025370542427,26.9245748734355" />
+    <Link Source="@31" Target="@49" Category="CodeMap_ExternalReference" Bounds="-964.817617625768,7.1869945013882,780.357555851999,69.3123046312613" />
+    <Link Source="@31" Target="@7" Category="CodeMap_ExternalReference" Bounds="-992.046680706899,9.50008695650023,830.81193429079,118.74038883621" />
+    <Link Source="@40" Target="@18" Category="References" Bounds="-1128.32277493343,317.672892543593,10.0705899644045,21.8279194128569" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="46">
+      <Category Ref="CodeMap_ProjectReference" />
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+      <Category Ref="Implements" />
+    </Link>
+    <Link Source="@40" Target="@35" Category="CodeMap_ExternalReference" Bounds="-1077.90544985978,-7.42688508507134,959.732458722502,346.927697041521" />
+    <Link Source="@40" Target="@37" Category="CodeMap_ExternalReference" Bounds="-1076.13071632833,-62.5601950928348,1169.33601701917,402.061007049285" />
+    <Link Source="@40" Target="@47" Category="CodeMap_ExternalReference" Bounds="-1071.62234839331,47.1463159174626,955.713901637285,292.354496038987" />
+    <Link Source="@40" Target="@49" Category="CodeMap_ExternalReference" Bounds="-1063.12413615565,101.723109613167,938.955876579505,237.777702343283" />
+    <Link Source="@40" Target="@7" Category="Implements" Bounds="-1050.12290260537,156.282618281661,914.071865691577,183.218193674789" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="6">
+      <Category Ref="CodeMap_ProjectReference" />
+    </Link>
+    <Link Source="@44" Target="@18" Category="CodeMap_ExternalReference" Bounds="-1130.24040604195,119.5002869565,56.9131793528511,156.541382060993" />
+    <Link Source="@44" Target="@20" Category="CodeMap_ProjectReference" Bounds="-1075.90135869807,73.3058084729688,4.47780713087127,21.1944784835315" />
+    <Link Source="@44" Target="@35" Category="CodeMap_ExternalReference" Bounds="-973.229327475471,-9.31906879322345,793.622728131086,103.819355749724" />
+    <Link Source="@44" Target="@37" Category="CodeMap_ExternalReference" Bounds="-987.232711891397,-64.122978227637,1034.85736212538,158.623265184137" />
+    <Link Source="@44" Target="@40" Category="CodeMap_ProjectReference" Bounds="-1108.67498741946,119.5002869565,37.6626253928575,211.140379140498" />
+    <Link Source="@44" Target="@47" Category="CodeMap_ExternalReference" Bounds="-942.964585987734,40.8788857576228,758.023726877561,56.7087816327896" />
+    <Link Source="@44" Target="@49" Category="CodeMap_ExternalReference" Bounds="-942.584313944596,89.384323494907,757.571787381657,15.1004844056648" />
+    <Link Source="@44" Target="@7" Category="CodeMap_ExternalReference" Bounds="-942.584313944596,111.401690892531,757.575468796273,26.4218675645522" />
+    <Link Source="@5" Target="@18" Category="CodeMap_ExternalReference" Bounds="-1218.22937011719,311.957000732422,70.9271240234375,82.5438842773438" />
+    <Link Source="@5" Target="@35" Category="CodeMap_ExternalReference" Bounds="-1072.80213537298,-7.01224599612159,959.499080406453,401.513132952622" />
+    <Link Source="@5" Target="@37" Category="CodeMap_ExternalReference" Bounds="-1070.69471414144,-62.2100345955927,1168.40425181834,456.710921552093" />
+    <Link Source="@5" Target="@40" Category="CodeMap_ProjectReference" Bounds="-1108.67463914348,373.360932516737,3.77123460852181,21.1399544397636" />
+    <Link Source="@5" Target="@47" Category="CodeMap_ExternalReference" Bounds="-1068.13117104666,47.5761432773223,958.686626891209,346.924743679178" />
+    <Link Source="@5" Target="@49" Category="CodeMap_ExternalReference" Bounds="-1062.18002928917,102.168348603119,947.004336594014,292.332538353381" />
+    <Link Source="@5" Target="@7" Category="CodeMap_ProjectReference" Bounds="-1053.71783053461,156.740388325911,931.177633616879,237.760498630589" />
+    <Link Source="@7" Target="@35" Category="Implements" Bounds="-186.148529052734,-7.95942497253418,74.4431457519531,137.473249435425" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
+      <Category Ref="CodeMap_ProjectReference" />
+    </Link>
+    <Link Source="@7" Target="@37" Category="InheritsFrom" Bounds="-18.9643058776855,-62.5127105712891,112.835834503174,192.02653503418" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="6">
+      <Category Ref="CodeMap_ProjectReference" />
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@7" Target="@47" Category="CodeSchema_Calls" Bounds="-18.9643058776855,46.8515129089355,72.9475402832031,82.6623115539551" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="4">
+      <Category Ref="CodeMap_ProjectReference" />
+    </Link>
+    <Link Source="@7" Target="@49" Category="References" Bounds="-65.6064394626672,108.511517388905,0.46523208211957,21.0023072829944" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="10">
+      <Category Ref="CodeMap_ProjectReference" />
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="InheritsFrom" />
+    </Link>
+    <Link Source="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" Target="(@12)" Category="Contains" FetchingParent="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" />
+    <Link Source="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" Target="(@21)" Category="Contains" FetchingParent="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" />
+    <Link Source="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" Target="(@32)" Category="Contains" FetchingParent="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" />
+    <Link Source="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" Target="(@45)" Category="Contains" FetchingParent="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" />
+    <Link Source="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" Target="(@42)" Category="Contains" FetchingParent="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" />
+    <Link Source="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" Target="(@9)" Category="Contains" FetchingParent="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" />
+    <Link Source="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" Target="@16" Category="Contains" FetchingParent="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" />
+    <Link Source="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" Target="@27" Category="Contains" FetchingParent="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" />
+    <Link Source="Core{54DB0AF4-C04E-4B54-9608-E635BB286370}" Target="@18" Category="Contains" FetchingParent="Core{54DB0AF4-C04E-4B54-9608-E635BB286370}" />
+    <Link Source="Core{54DB0AF4-C04E-4B54-9608-E635BB286370}" Target="@40" Category="Contains" FetchingParent="Core{54DB0AF4-C04E-4B54-9608-E635BB286370}" />
+    <Link Source="Core{54DB0AF4-C04E-4B54-9608-E635BB286370}" Target="@5" Category="Contains" FetchingParent="Core{54DB0AF4-C04E-4B54-9608-E635BB286370}" />
+    <Link Source="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" Target="(@14)" Category="Contains" FetchingParent="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" />
+    <Link Source="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" Target="(@25)" Category="Contains" FetchingParent="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" />
+    <Link Source="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" Target="(@41)" Category="Contains" FetchingParent="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" />
+    <Link Source="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" Target="(@8)" Category="Contains" FetchingParent="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" />
+    <Link Source="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" Target="Budget{934DAE83-40AA-4261-A096-0FCF8282EE29}" Category="Contains" FetchingParent="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" />
+    <Link Source="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" Target="CommandChain{15CBE7D5-D602-4158-9AB7-DDF6C41077B3}" Category="Contains" FetchingParent="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" />
+    <Link Source="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" Target="Dining{200526B4-98A2-4AB6-A2E0-53E71DDB0095}" Category="Contains" FetchingParent="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" />
+    <Link Source="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" Target="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" Category="Contains" FetchingParent="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" />
+    <Link Source="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" Target="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" Category="Contains" FetchingParent="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" />
+    <Link Source="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" Target="@11" Category="Contains" FetchingParent="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" />
+    <Link Source="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" Target="@20" Category="Contains" FetchingParent="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" />
+    <Link Source="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" Target="@31" Category="Contains" FetchingParent="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" />
+    <Link Source="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" Target="@44" Category="Contains" FetchingParent="Settings{BF1C9A57-ED8E-4879-9839-BCB2B885AFDC}" />
+    <Link Source="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" Target="(@13)" Category="Contains" FetchingParent="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" />
+    <Link Source="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" Target="(@24)" Category="Contains" FetchingParent="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" />
+    <Link Source="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" Target="(@3)" Category="Contains" FetchingParent="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" />
+    <Link Source="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" Target="(@38)" Category="Contains" FetchingParent="Time{E8A80BB7-0404-4CBE-AFB2-76B8358B345F}" />
+    <Link Source="Tracker{695FD2D9-CA45-4797-A30B-33A1F01A09DD}" Target="Core{54DB0AF4-C04E-4B54-9608-E635BB286370}" Category="Contains" FetchingParent="Tracker{695FD2D9-CA45-4797-A30B-33A1F01A09DD}" />
+    <Link Source="Tracker{695FD2D9-CA45-4797-A30B-33A1F01A09DD}" Target="Module{E16CD02D-F19C-4552-B7A8-7A5920506CCC}" Category="Contains" FetchingParent="Tracker{695FD2D9-CA45-4797-A30B-33A1F01A09DD}" />
+    <Link Source="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" Target="@2" Category="Contains" FetchingParent="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" />
+    <Link Source="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" Target="@23" Category="Contains" FetchingParent="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" />
+    <Link Source="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" Target="@35" Category="Contains" FetchingParent="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" />
+    <Link Source="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" Target="@37" Category="Contains" FetchingParent="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" />
+    <Link Source="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" Target="@47" Category="Contains" FetchingParent="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" />
+    <Link Source="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" Target="@49" Category="Contains" FetchingParent="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" />
+    <Link Source="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" Target="@7" Category="Contains" FetchingParent="Utility.Core{BA299C3A-6716-44B8-A970-0E7EA4311193}" />
+  </Links>
+  <Categories>
+    <Category Id="CodeMap_ExternalReference" Label="External Reference" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+    <Category Id="CodeMap_ProjectReference" Label="Project Reference" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+    <Category Id="CodeMap_SolutionFolder" Label="Solution Folder" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Solution Folder" />
+    <Category Id="CodeSchema_Assembly" Label="Assembly" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="Assemblies" />
+    <Category Id="CodeSchema_Calls" Label="Calls" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Called By" OutgoingActionLabel="Calls" />
+    <Category Id="CodeSchema_ReturnTypeLink" Label="Return" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Return types" OutgoingActionLabel="Return types" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+    <Category Id="Implements" Label="Implements" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Implemented by" OutgoingActionLabel="Implements" />
+    <Category Id="InheritsFrom" Label="Inherits From" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Inherited By" OutgoingActionLabel="Inherits From" />
+    <Category Id="References" Label="References" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_StrongName" Label="StrongName" Description="StrongName" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Delayed Child Nodes State" Description="Unspecified if the delayed child nodes state is not specified. NotFetched if the group contains child nodes that are not fetched into the graph yet. Fetched if the group has all its delayed child nodes already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="ErrorLevel" Label="Error Level" Description="Used to associate an error level with a node or link in the graph" Group="Analysis" DataType="Microsoft.VisualStudio.Progression.ErrorLevel" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="IsSourceVirtualized" Label="Link Source Virtualized" Description="If true, the link source end contains data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="IsTargetVirtualized" Label="Link Target Virtualized" Description="If true, the link target end contains data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="Weight" Label="Weight" Description="Weight" DataType="System.Double" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(ebb827e7-7cdf-49dc-abbc-d730ef3222d4.OutputPathUri)" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Uri="Assembly=$(79291ead-392a-4573-9903-4f2dac6556c6.OutputPathUri)" />
+    <Alias n="4" Uri="Assembly=$(5940580e-b2e7-4666-8104-8b38fd42355c.OutputPathUri)" />
+    <Alias n="5" Id="(@4)" />
+    <Alias n="6" Uri="Assembly=$(574ffac6-756d-4a5d-8400-463db9067576.OutputPathUri)" />
+    <Alias n="7" Id="(@6)" />
+    <Alias n="8" Uri="Assembly=$(7f0fca22-bed4-4c9d-9d6e-575b9850deca.OutputPathUri)" />
+    <Alias n="9" Uri="Assembly=$(e02fb1f8-b44d-4f5c-99d4-136b6f1b4986.OutputPathUri)" />
+    <Alias n="10" Uri="Assembly=$(2464bd0a-c450-4eaa-8f01-b9ceb2010af4.OutputPathUri)" />
+    <Alias n="11" Id="(@10)" />
+    <Alias n="12" Uri="Assembly=$(26ec1d1c-7e35-4a35-9cc3-73d45feb7bd9.OutputPathUri)" />
+    <Alias n="13" Uri="Assembly=$(d542fece-18c4-40d3-914d-db713d6e7b52.OutputPathUri)" />
+    <Alias n="14" Uri="Assembly=$(bafdf4c2-522a-49ae-87ee-ee57dfca490c.OutputPathUri)" />
+    <Alias n="15" Uri="Assembly=$(f7cd0aaf-5136-450d-84fd-8145ff4debe7.OutputPathUri)" />
+    <Alias n="16" Id="(@15)" />
+    <Alias n="17" Uri="Assembly=$(f3996b31-5b36-4948-8958-7677475f40b4.OutputPathUri)" />
+    <Alias n="18" Id="(@17)" />
+    <Alias n="19" Uri="Assembly=$(1b521a73-c691-4391-9585-a7a182cc6519.OutputPathUri)" />
+    <Alias n="20" Id="(@19)" />
+    <Alias n="21" Uri="Assembly=$(71c47b10-a81e-4987-ab80-122a303cc440.OutputPathUri)" />
+    <Alias n="22" Uri="Assembly=$(7aaa468a-b8bd-4c8b-8dad-3f475ee01ad1.OutputPathUri)" />
+    <Alias n="23" Id="(@22)" />
+    <Alias n="24" Uri="Assembly=$(02d85362-e49f-411b-9440-11a854b6c01c.OutputPathUri)" />
+    <Alias n="25" Uri="Assembly=$(9bf0d17c-36f4-422a-96f2-72d2482855db.OutputPathUri)" />
+    <Alias n="26" Uri="Assembly=$(764bafff-0878-4588-8ae7-7a8bc9436c7d.OutputPathUri)" />
+    <Alias n="27" Id="(@26)" />
+    <Alias n="28" Uri="Assembly=$(2457bb97-3a51-468a-b9ea-31d37e287084.OutputPathUri)" />
+    <Alias n="29" Id="(@28)" />
+    <Alias n="30" Uri="Assembly=$(840962f0-32b8-4bc3-aeb1-28d43fafa9ab.OutputPathUri)" />
+    <Alias n="31" Id="(@30)" />
+    <Alias n="32" Uri="Assembly=$(ded1c0c4-24c9-4628-b8a1-1ec08b0314cc.OutputPathUri)" />
+    <Alias n="33" Uri="Assembly=$(6f011558-8b5b-4f20-a550-59c9c2787240.OutputPathUri)" />
+    <Alias n="34" Uri="Assembly=$(0d77a50a-a6cd-4df9-97b1-6bda9571f8b3.OutputPathUri)" />
+    <Alias n="35" Id="(@34)" />
+    <Alias n="36" Uri="Assembly=$(eb6a1e8c-00a4-4602-bc67-40f08484c570.OutputPathUri)" />
+    <Alias n="37" Id="(@36)" />
+    <Alias n="38" Uri="Assembly=$(8bb85715-8ac6-4a19-854c-1ffec02f57fe.OutputPathUri)" />
+    <Alias n="39" Uri="Assembly=$(c80382da-bc86-49fd-a9ce-b42c46e0a510.OutputPathUri)" />
+    <Alias n="40" Id="(@39)" />
+    <Alias n="41" Uri="Assembly=$(e67e0529-6edf-40f8-bd20-3250a9ed1e2f.OutputPathUri)" />
+    <Alias n="42" Uri="Assembly=$(db669b16-ebbb-46bc-bc44-588d4506dba9.OutputPathUri)" />
+    <Alias n="43" Uri="Assembly=$(827f2bd7-047d-418f-be32-d11ac7b6c3ce.OutputPathUri)" />
+    <Alias n="44" Id="(@43)" />
+    <Alias n="45" Uri="Assembly=$(a552b06b-b407-41c2-a914-02a255f79698.OutputPathUri)" />
+    <Alias n="46" Uri="Assembly=$(d48021d3-7fb3-4b13-9e13-de83a7a76a60.OutputPathUri)" />
+    <Alias n="47" Id="(@46)" />
+    <Alias n="48" Uri="Assembly=$(fa8b1e98-9a17-4f3f-bcf4-e86ea08ce424.OutputPathUri)" />
+    <Alias n="49" Id="(@48)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Error" ValueLabel="Error Level">
+      <Condition Expression="HasValue('ErrorLevel')" />
+      <Setter Property="Icon" Value="Node.Error" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Test Project" ValueLabel="Test Project">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Web Project" ValueLabel="Web Project">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Windows Store Project" ValueLabel="Windows Store Project">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Phone Project" ValueLabel="Phone Project">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Portable Library" ValueLabel="Portable Library">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="WPF Project" ValueLabel="WPF Project">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="VSIX Project" ValueLabel="VSIX Project">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Modeling Project" ValueLabel="Modeling Project">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF0E70C0" />
+      <Setter Property="Stroke" Value="#FF0E70C0" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="Has category">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Calls" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Function Pointer" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Write" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Return" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="References" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Uses Attribute" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Solution Folder" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Project Reference" ValueLabel="Project Reference">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="External Reference" ValueLabel="External Reference">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="02d85362-e49f-411b-9440-11a854b6c01c.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Time.Api\bin\Debug\net6.0\Tracker.Module.Time.Api.dll" />
+    <Path Id="02d85362-e49f-411b-9440-11a854b6c01c.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Time.Api/bin/Debug/net6.0/Tracker.Module.Time.Api.dll" />
+    <Path Id="0d77a50a-a6cd-4df9-97b1-6bda9571f8b3.OutputPath" Value="E:\Code\Personal\Tracker\Wolf.Utility.Core\Wolf.Utility.Core.Startup\bin\Debug\net6.0\Wolf.Utility.Core.Startup.dll" />
+    <Path Id="0d77a50a-a6cd-4df9-97b1-6bda9571f8b3.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Wolf.Utility.Core/Wolf.Utility.Core.Startup/bin/Debug/net6.0/Wolf.Utility.Core.Startup.dll" />
+    <Path Id="1b521a73-c691-4391-9585-a7a182cc6519.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Settings.Core\bin\Debug\net6.0\Tracker.Module.Settings.Core.dll" />
+    <Path Id="1b521a73-c691-4391-9585-a7a182cc6519.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Settings.Core/bin/Debug/net6.0/Tracker.Module.Settings.Core.dll" />
+    <Path Id="2457bb97-3a51-468a-b9ea-31d37e287084.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Api\bin\Debug\net6.0\Tracker.Api.dll" />
+    <Path Id="2457bb97-3a51-468a-b9ea-31d37e287084.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Api/bin/Debug/net6.0/Tracker.Api.dll" />
+    <Path Id="2464bd0a-c450-4eaa-8f01-b9ceb2010af4.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Settings.Persistance\bin\Debug\net6.0\Tracker.Module.Settings.Persistence.dll" />
+    <Path Id="2464bd0a-c450-4eaa-8f01-b9ceb2010af4.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Settings.Persistance/bin/Debug/net6.0/Tracker.Module.Settings.Persistence.dll" />
+    <Path Id="26ec1d1c-7e35-4a35-9cc3-73d45feb7bd9.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Budget.Persistance\bin\Debug\net6.0\Tracker.Module.Budget.Persistence.dll" />
+    <Path Id="26ec1d1c-7e35-4a35-9cc3-73d45feb7bd9.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Budget.Persistance/bin/Debug/net6.0/Tracker.Module.Budget.Persistence.dll" />
+    <Path Id="574ffac6-756d-4a5d-8400-463db9067576.OutputPath" Value="E:\Code\Personal\Tracker\Wolf.Utility.Core\Wolf.Utility.Core.Persistence\bin\Debug\net6.0\Wolf.Utility.Core.Persistence.dll" />
+    <Path Id="574ffac6-756d-4a5d-8400-463db9067576.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Wolf.Utility.Core/Wolf.Utility.Core.Persistence/bin/Debug/net6.0/Wolf.Utility.Core.Persistence.dll" />
+    <Path Id="5940580e-b2e7-4666-8104-8b38fd42355c.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Core.Persistance\bin\Debug\net6.0\Tracker.Core.Persistence.dll" />
+    <Path Id="5940580e-b2e7-4666-8104-8b38fd42355c.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Core.Persistance/bin/Debug/net6.0/Tracker.Core.Persistence.dll" />
+    <Path Id="6f011558-8b5b-4f20-a550-59c9c2787240.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Maui\bin\Debug\net6.0-android\Tracker.Maui.dll" />
+    <Path Id="6f011558-8b5b-4f20-a550-59c9c2787240.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Maui/bin/Debug/net6.0-android/Tracker.Maui.dll" />
+    <Path Id="71c47b10-a81e-4987-ab80-122a303cc440.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Budget.Core\bin\Debug\net6.0\Tracker.Module.Budget.Core.dll" />
+    <Path Id="71c47b10-a81e-4987-ab80-122a303cc440.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Budget.Core/bin/Debug/net6.0/Tracker.Module.Budget.Core.dll" />
+    <Path Id="764bafff-0878-4588-8ae7-7a8bc9436c7d.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.CommandChain.Api\bin\Debug\net6.0\Tracker.Module.CommandChain.Api.dll" />
+    <Path Id="764bafff-0878-4588-8ae7-7a8bc9436c7d.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.CommandChain.Api/bin/Debug/net6.0/Tracker.Module.CommandChain.Api.dll" />
+    <Path Id="79291ead-392a-4573-9903-4f2dac6556c6.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Time.Persistance\bin\Debug\net6.0\Tracker.Module.Time.Persistence.dll" />
+    <Path Id="79291ead-392a-4573-9903-4f2dac6556c6.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Time.Persistance/bin/Debug/net6.0/Tracker.Module.Time.Persistence.dll" />
+    <Path Id="7aaa468a-b8bd-4c8b-8dad-3f475ee01ad1.OutputPath" Value="E:\Code\Personal\Tracker\Wolf.Utility.Core\Wolf.Utility.Core.Logging\bin\Debug\net6.0\Wolf.Utility.Core.Logging.dll" />
+    <Path Id="7aaa468a-b8bd-4c8b-8dad-3f475ee01ad1.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Wolf.Utility.Core/Wolf.Utility.Core.Logging/bin/Debug/net6.0/Wolf.Utility.Core.Logging.dll" />
+    <Path Id="7f0fca22-bed4-4c9d-9d6e-575b9850deca.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Dining.Persistance\bin\Debug\net6.0\Tracker.Module.Dining.Persistence.dll" />
+    <Path Id="7f0fca22-bed4-4c9d-9d6e-575b9850deca.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Dining.Persistance/bin/Debug/net6.0/Tracker.Module.Dining.Persistence.dll" />
+    <Path Id="827f2bd7-047d-418f-be32-d11ac7b6c3ce.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Settings.Models\bin\Debug\net6.0\Tracker.Module.Settings.Models.dll" />
+    <Path Id="827f2bd7-047d-418f-be32-d11ac7b6c3ce.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Settings.Models/bin/Debug/net6.0/Tracker.Module.Settings.Models.dll" />
+    <Path Id="840962f0-32b8-4bc3-aeb1-28d43fafa9ab.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Settings.Api\bin\Debug\net6.0\Tracker.Module.Settings.Api.dll" />
+    <Path Id="840962f0-32b8-4bc3-aeb1-28d43fafa9ab.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Settings.Api/bin/Debug/net6.0/Tracker.Module.Settings.Api.dll" />
+    <Path Id="8bb85715-8ac6-4a19-854c-1ffec02f57fe.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Time.Models\bin\Debug\net6.0\Tracker.Module.Time.Models.dll" />
+    <Path Id="8bb85715-8ac6-4a19-854c-1ffec02f57fe.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Time.Models/bin/Debug/net6.0/Tracker.Module.Time.Models.dll" />
+    <Path Id="9bf0d17c-36f4-422a-96f2-72d2482855db.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Dining.Api\bin\Debug\net6.0\Tracker.Module.Dining.Api.dll" />
+    <Path Id="9bf0d17c-36f4-422a-96f2-72d2482855db.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Dining.Api/bin/Debug/net6.0/Tracker.Module.Dining.Api.dll" />
+    <Path Id="a552b06b-b407-41c2-a914-02a255f79698.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Budget.Models\bin\Debug\net6.0\Tracker.Module.Budget.Models.dll" />
+    <Path Id="a552b06b-b407-41c2-a914-02a255f79698.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Budget.Models/bin/Debug/net6.0/Tracker.Module.Budget.Models.dll" />
+    <Path Id="bafdf4c2-522a-49ae-87ee-ee57dfca490c.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Dining.Core\bin\Debug\net6.0\Tracker.Module.Dining.Core.dll" />
+    <Path Id="bafdf4c2-522a-49ae-87ee-ee57dfca490c.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Dining.Core/bin/Debug/net6.0/Tracker.Module.Dining.Core.dll" />
+    <Path Id="c80382da-bc86-49fd-a9ce-b42c46e0a510.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Core.Models\bin\Debug\net6.0\Tracker.Core.Models.dll" />
+    <Path Id="c80382da-bc86-49fd-a9ce-b42c46e0a510.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Core.Models/bin/Debug/net6.0/Tracker.Core.Models.dll" />
+    <Path Id="d48021d3-7fb3-4b13-9e13-de83a7a76a60.OutputPath" Value="E:\Code\Personal\Tracker\Wolf.Utility.Core\Wolf.Utility.Core.Extensions\bin\Debug\net6.0\Wolf.Utility.Core.Extensions.dll" />
+    <Path Id="d48021d3-7fb3-4b13-9e13-de83a7a76a60.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Wolf.Utility.Core/Wolf.Utility.Core.Extensions/bin/Debug/net6.0/Wolf.Utility.Core.Extensions.dll" />
+    <Path Id="d542fece-18c4-40d3-914d-db713d6e7b52.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Time.Core\bin\Debug\net6.0\Tracker.Module.Time.Core.dll" />
+    <Path Id="d542fece-18c4-40d3-914d-db713d6e7b52.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Time.Core/bin/Debug/net6.0/Tracker.Module.Time.Core.dll" />
+    <Path Id="db669b16-ebbb-46bc-bc44-588d4506dba9.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.CommandChain.Models\bin\Debug\net6.0\Tracker.Module.CommandChain.Models.dll" />
+    <Path Id="db669b16-ebbb-46bc-bc44-588d4506dba9.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.CommandChain.Models/bin/Debug/net6.0/Tracker.Module.CommandChain.Models.dll" />
+    <Path Id="ded1c0c4-24c9-4628-b8a1-1ec08b0314cc.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Budget.Api\bin\Debug\net6.0\Tracker.Module.Budget.Api.dll" />
+    <Path Id="ded1c0c4-24c9-4628-b8a1-1ec08b0314cc.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Budget.Api/bin/Debug/net6.0/Tracker.Module.Budget.Api.dll" />
+    <Path Id="e02fb1f8-b44d-4f5c-99d4-136b6f1b4986.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.CommandChain.Persistence\bin\Debug\net6.0\Tracker.Module.CommandChain.Persistence.dll" />
+    <Path Id="e02fb1f8-b44d-4f5c-99d4-136b6f1b4986.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.CommandChain.Persistence/bin/Debug/net6.0/Tracker.Module.CommandChain.Persistence.dll" />
+    <Path Id="e67e0529-6edf-40f8-bd20-3250a9ed1e2f.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.Dining.Models\bin\Debug\net6.0\Tracker.Module.Dining.Models.dll" />
+    <Path Id="e67e0529-6edf-40f8-bd20-3250a9ed1e2f.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.Dining.Models/bin/Debug/net6.0/Tracker.Module.Dining.Models.dll" />
+    <Path Id="eb6a1e8c-00a4-4602-bc67-40f08484c570.OutputPath" Value="E:\Code\Personal\Tracker\Wolf.Utility.Core\Wolf.Utility.Core.Bases\bin\Debug\net6.0\Wolf.Utility.Core.Bases.dll" />
+    <Path Id="eb6a1e8c-00a4-4602-bc67-40f08484c570.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Wolf.Utility.Core/Wolf.Utility.Core.Bases/bin/Debug/net6.0/Wolf.Utility.Core.Bases.dll" />
+    <Path Id="ebb827e7-7cdf-49dc-abbc-d730ef3222d4.OutputPath" Value="E:\Code\Personal\Tracker\Wolf.Utility.Core\Wolf.Utility.Core.Web\bin\Debug\net6.0\Wolf.Utility.Core.Web.dll" />
+    <Path Id="ebb827e7-7cdf-49dc-abbc-d730ef3222d4.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Wolf.Utility.Core/Wolf.Utility.Core.Web/bin/Debug/net6.0/Wolf.Utility.Core.Web.dll" />
+    <Path Id="f3996b31-5b36-4948-8958-7677475f40b4.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Core\bin\Debug\net6.0\Tracker.Core.dll" />
+    <Path Id="f3996b31-5b36-4948-8958-7677475f40b4.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Core/bin/Debug/net6.0/Tracker.Core.dll" />
+    <Path Id="f7cd0aaf-5136-450d-84fd-8145ff4debe7.OutputPath" Value="E:\Code\Personal\Tracker\Tracker\Tracker.Module.CommandChain.Core\bin\Debug\net6.0\Tracker.Module.CommandChain.Core.dll" />
+    <Path Id="f7cd0aaf-5136-450d-84fd-8145ff4debe7.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Tracker/Tracker.Module.CommandChain.Core/bin/Debug/net6.0/Tracker.Module.CommandChain.Core.dll" />
+    <Path Id="fa8b1e98-9a17-4f3f-bcf4-e86ea08ce424.OutputPath" Value="E:\Code\Personal\Tracker\Wolf.Utility.Core\Wolf.Utility.Core.Exceptions\bin\Debug\net6.0\Wolf.Utility.Core.Exceptions.dll" />
+    <Path Id="fa8b1e98-9a17-4f3f-bcf4-e86ea08ce424.OutputPathUri" Value="file:///E:/Code/Personal/Tracker/Wolf.Utility.Core/Wolf.Utility.Core.Exceptions/bin/Debug/net6.0/Wolf.Utility.Core.Exceptions.dll" />
+  </Paths>
+</DirectedGraph>

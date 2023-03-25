@@ -4,7 +4,7 @@ using Tracker.Core.Enums;
 
 namespace Tracker.Core.Models.User
 {
-    public abstract class User : IUser
+    public class User : IUser
     {
         /// <inheritdoc />
         public int Id { get; set; }
@@ -28,11 +28,12 @@ namespace Tracker.Core.Models.User
         public ICollection<IModule> Modules { get; set; }
 
         /// <inheritdoc />
-        public virtual IUser UnpackDto<TDto>(TDto dto) where TDto : class, IUserDto
+        public static IUser UnpackDto<TDto>(TDto dto) where TDto : class, IUserDto
         {
-            UserType = dto.UserType;
-            ExternalId = dto.ExternalId;
-            return this;
+            var output = new User();
+            output.UserType = dto.UserType;
+            output.ExternalId = dto.ExternalId;
+            return output;
         }
     }
 }

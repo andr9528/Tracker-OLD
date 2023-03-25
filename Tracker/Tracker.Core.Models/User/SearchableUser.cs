@@ -9,9 +9,6 @@ namespace Tracker.Core.Models.User
         public int Id { get; set; }
 
         /// <inheritdoc />
-        public string ExternalId { get; set; }
-
-        /// <inheritdoc />
-        public UserType UserType { get; set; }
+        public IUserDto UserDto { get; set; }
     }
 }

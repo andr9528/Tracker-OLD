@@ -15,6 +15,6 @@ namespace Tracker.Core.Contracts.User
         /// <typeparam name="TDto"></typeparam>
         /// <param name="dto"></param>
         /// <returns>Returns the current object, that was unpacked into</returns>
-        IUser UnpackDto<TDto>(TDto dto) where TDto : class, IUserDto;
+        static IUser UnpackDto<TDto>(TDto dto) where TDto : class, IUserDto => throw new NotImplementedException();
     }
 }

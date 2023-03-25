@@ -2,7 +2,7 @@
 
 namespace Tracker.Module.Settings.Core.Contracts.SettingsUser
 {
-    public interface ISettingsUserDto : IUserDto
+    public interface ISettingsUserDto : IUserDtoBase
     {
 
     }

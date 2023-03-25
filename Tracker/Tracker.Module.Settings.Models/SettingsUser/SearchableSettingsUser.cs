@@ -5,6 +5,6 @@ namespace Tracker.Module.Settings.Models.SettingsUser
 {
     public class SearchableSettingsUser : SearchableUser, ISearchableSettingsUser
     {
-        
+
     }
 }
